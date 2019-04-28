@@ -47,6 +47,4 @@ const UploadFile = filePath => {
   }
 };
 
-module.exports = {
-  UploadFile,
-};
+module.exports = UploadFile;
